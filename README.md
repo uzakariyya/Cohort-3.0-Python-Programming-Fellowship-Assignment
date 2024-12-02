@@ -19,8 +19,8 @@ Future updates will include:
 
 ## 🚀 Getting Started
 ### Prerequisites
-- Python 3.7 or above installed.
-- Familiarity with basic programming concepts is a plus but not mandatory.
+- Python 3.7 and VS COde with Several Extension installed.
+- Familiarity with basic programming concepts is a plus but not mandatory to be in AREWA Data Science Fellowship
 
 ### Clone the Repository
 ```bash
