@@ -1,28 +1,43 @@
-# Cohort 3.0 Python Programming Fellowship Assignments 🐍
+# 🐍 Cohort 3.0 Python Programming Fellowship Assignments  
 
-Welcome to my **Cohort 3.0 Python Programming Fellowship Assignments** repository! This repository serves as a hub for the assignments and exercises completed during the fellowship program, aiming me to develop and enhance Python programming skills.
-
----
-
-## 📂 Repository Structure
-The assignments are organized into weekly modules, each focusing on specific Python programming concepts:
-
-- **Week_1**: 
-  - Topics Covered: Introduction to Python, Variables, Data Types.
-  - Assignments: Basic exercises to establish foundational knowledge.
-
-Future updates will include:
-- **Week_2**: Intermediate Python concepts.
-- **Week_3**: Advanced Python techniques and project-based learning.
+Welcome to my **Cohort 3.0 Python Programming Fellowship Assignments** Repository! This repository is a collection of assignments and exercises completed for the fellowship program, designed to develop and enhance my Python programming skills.
 
 ---
 
-## 🚀 Getting Started
-### Prerequisites
-- Python 3.7 and VS COde with Several Extension installed.
-- Familiarity with basic programming concepts is a plus but not mandatory to be in AREWA Data Science Fellowship
+## 📂 Repository Structure  
+This repository is organized into folders for each assignment. Each folder contains Python files related to specific tasks or exercises:  
 
-### Clone the Repository
+- **Assignment_1**: 
+- **Assignment_2**:
+- **Assignment_3**:
+- **Assignment_4**: 
+- **Assignment_5**:
+---
+
+## 🚀 Getting Started  
+
+### Prerequisites  
+- **Python 3.7+**: Ensure you have Python installed on your system.  
+- **Code Editor**: Use any editor of your choice (e.g., VS Code, Jupyter Notebook).  
+- **Basic Git Knowledge**: Familiarity with cloning repositories and working with Git.  
+
+### Clone the Repository  
+To access the assignments, clone this repository using the following command:  
 ```bash
 git clone https://github.com/uzakariyya/Cohort-3.0-Python-Programming-Fellowship-Assignment.git
 cd Cohort-3.0-Python-Programming-Fellowship-Assignment
+```
+
+
+## 🛠️ Contribution & Feedback  
+Feel free to fork this repository, make improvements, or provide feedback by opening an issue or pull request.
+
+---
+
+## 📧 Contact  
+For any questions or suggestions, feel free to reach out via:  
+- **Email**: zakariyyaumarm@gmail.com
+- **GitHub**: [uzakariyya](https://github.com/uzakariyya)
+- **LinkedIn**: [Umar Zakariyya Muhammad](linkedin.com/in/umar-zakariyya-muhammad-42122b155)  
+
+Happy coding! 🎉
