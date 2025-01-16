@@ -5,13 +5,16 @@ Welcome to my **Cohort 3.0 Python Programming Fellowship Assignments** Repositor
 ---
 
 ## 📂 Repository Structure  
-This repository is organized into folders for each assignment. Each folder contains Python files related to specific tasks or exercises:  
+This repository is organized into folders for each assignment based on the **python-programming-fellowship** Repository. Each folder contains Python files related to specific tasks or exercises:  
 
 - **Assignment_1**
 - **Assignment_2**
 - **Assignment_3**
 - **Assignment_4** 
 - **Assignment_5**
+- **Assignment_6**
+- **Assignment_7**
+- **Assignment_8**
 ---
 
 ## 🚀 Getting Started  
